@@ -1,4 +1,4 @@
-##centos6 vps安装远程桌面环境
+##  centos6 vps安装远程桌面环境
 
 ###  先下载桌面环境    
     yum update -y
@@ -32,7 +32,7 @@
     
 电脑或者ipad或者chrome下载VNC客户端
 
-###参考：    
+###  参考：    
 * https://www.earnworld.in/how-to-install-xfce-desktop-on-centos-6-32bit64bit-vps/
 * https://www.server-world.info/en/note?os=CentOS_6&p=x
 * https://wiki.centos.org/HowTos/VNC-Server
